@@ -1,0 +1,22 @@
+line Api:
+g8+w08P64649E/7EPxaAFlliyw6dBu/As7eV+rYZ/KV7bD3MDRsPd3R1LjSfQJVsg3kel5iuNc/ipQv1cHvaoBIJ5H1OK7kvOQ6We4LW8xGUFiy6T9HWKxmVgxKfCACf4GMmNwYZ+GzARlOchln4XgdB04t89/1O/w1cDnyilFU=
+
+channal secert:
+3a2379aa832775fac84a8fac1124d2fb
+
+
+heroku login
+git config --global user.name "HUANG_YUAN_YO"
+git config --global user.email "david89042712@gmail.com"
+git init
+以上第一次就好
+
+
+
+
+上傳步驟
+heroku git:remote -a a54842211
+git add .
+git commit -am'ok'
+git push heroku master
+
